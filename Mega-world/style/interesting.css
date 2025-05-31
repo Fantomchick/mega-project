@@ -1,0 +1,13 @@
+.ki-interesting-text{
+    color: black;
+}
+.ki-interesting-titles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ki-svg-icon{
+    width: 2rem;
+    height: 2rem;
+    fill: black;
+}
